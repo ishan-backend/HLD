@@ -1,14 +1,10 @@
-### List of HLD Articles :- 
-#### For unique problem statements:
-| Topic | What questions it answers uniquely?  | Link |
-| :---:        |     :---:      |     :---:     |
-| Design a Geo-Spatial index for real-time location search   | TODO     | `https://kousiknath.medium.com/system-design-design-a-geo-spatial-index-for-real-time-location-search-10968fe62b9c`    |
-|      |        |       |
+# High-Level Design
 
+This is my collection of high-level designs of software architectures which I have worked on in my orgs or explored otherwise!
 
+## Table of Contents
 
-
-#### For most asked interview HLD questions:
-| Topic | What questions it answers uniquely?  | Link |
-| :---:        |     :---:      |     :---:     |
-|      |        |       |
+| Index | Topic                                  | Link                     | Status       |
+|-------|----------------------------------------|--------------------------|--------------|
+| 1     | Kubernetes Architecture               | ![k8s](https://github.com/ishan-backend/HLD/raw/main/k8s.png)    | Done         |
+| 2     | Telegram        | [Link](#scalability-and-load-balancing) | Todo |
