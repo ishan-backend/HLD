@@ -6,7 +6,7 @@ This is my collection of high-level designs of software architectures which I ha
 
 | Index | Topic                                  | Link                     | Status       |Articles/Videos       |
 |-------|----------------------------------------|--------------------------|--------------|----------------------|
-| 0     | Networking+Protocols                   |                          | In-process   | ![OSI, TCP/IP, Linux Server Implementation](https://blog.bytebytego.com/p/network-protocols-run-the-internet) <br />
+| 0     | Networking+Protocols                   |                          | In-process   | ![OSI, TCP/IP](https://blog.bytebytego.com/p/network-protocols-run-the-internet) <br />
 | 1     | Kubernetes Architecture                | ![k8s](https://github.com/ishan-backend/HLD/raw/main/k8s.png)    | Done         | |
 | 2     | Kubernetes Sidecar Architecture        |                          | Todo         | |
 | 3     | Message Queue Architecture             |                          | Todo         | |
