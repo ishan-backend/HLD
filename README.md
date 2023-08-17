@@ -13,6 +13,7 @@ This is my collection of high-level designs of software architectures which I ha
 | 4     | Load Balancer                          |![lb](https://github.com/ishan-backend/HLD/raw/main/lb.png)  | Todo         | [Envoy](https://www.youtube.com/watch?v=40gKzHQWgP0)|
 | 5     | Telegram        | [Link](#scalability-and-load-balancing)         | In-process   | |
 | 6     | Streaming Service + Live Streaming e.g. HotStar| [Link]()         | In-process   | |
-| 7     | Payment System                         | [Link]()                 | Todo         | [Possible Interview Question](https://iorilan.medium.com/i-asked-this-system-design-question-to-3-guys-during-a-developer-interview-and-none-of-them-gave-9c23abe45687)|
-| 8     | Software Architecture Patterns: Application Code| [Read & Make Notes](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)                 | Todo         | |
-| 9     | Scaling for Millions of Request per second|                        | Todo         | [Understand and research for multiple scenarios and common use cases for interviews](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)|
+| 7     | Database Concurrency / Transaction Control| [Link]()         | Todo   | Udemy Hussein Nasser|
+| 8     | Payment System                         | [Link]()                 | Todo         | [Possible Interview Question](https://iorilan.medium.com/i-asked-this-system-design-question-to-3-guys-during-a-developer-interview-and-none-of-them-gave-9c23abe45687)|
+| 9     | Software Architecture Patterns: Application Code| [Read & Make Notes](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)                 | Todo         | |
+| 10    | Scaling for Millions of Request per second|                        | Todo         | [Understand and research for multiple scenarios and common use cases for interviews](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)|
