@@ -9,7 +9,7 @@ This is my collection of high-level designs of software architectures which I ha
 | 0     | Networking+Protocols                   |                          | :heavy_check_mark:   | [TCP vs UDP]() <br />[OSI, TCP/IP](https://blog.bytebytego.com/p/network-protocols-run-the-internet) <br /> [TLS Playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQW4yHuqp_Opv853-G_wAiH-) <br /> [WebRTC vs HLS & specific use cases]() <br /> [gRPC via HTTPS2]() <br /> [QUIC/HTTP3]()|
 | 1     | Kubernetes Architecture                |![k8s](https://github.com/ishan-backend/HLD/raw/main/k8s.png)   | :white_check_mark:         | |
 | 2     | Kubernetes Sidecar Architecture        |                          |          | |
-| 3     | Message Queue Architecture             |                          | :white_check_mark:         | |
+| 3     | Kafka Architecture             |  ![kafka](https://github.com/ishan-backend/HLD/raw/main/kafka.svg)                        | :white_check_mark:         | |
 | 4     | Load Balancer                          |![lb](https://github.com/ishan-backend/HLD/raw/main/lb.png)  | Todo         | [Envoy](https://www.youtube.com/watch?v=40gKzHQWgP0)|
 | 5     | Telegram        | [Link](#scalability-and-load-balancing)         | :white_check_mark:   | |
 | 6     | Streaming Service + Live Streaming e.g. HotStar| [Link]()         | :white_check_mark:   | |
